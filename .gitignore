@@ -1,0 +1,6 @@
+data/raw_data/non_reviews
+data/raw_data/reviews
+data/raw_data/slrs
+data/wrangled_data/non_reviews
+data/wrangled_data/reviews
+data/wrangled_data/slrs
