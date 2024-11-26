@@ -1,5 +1,4 @@
-# Mapping of a Field
-## A systematic review of reviews of forestry and the forest-based sector in Europe
+# Mapping of a Field: A systematic review of reviews of forestry and the forest-based sector in Europe
 
 ## Overview
 This repository contains the code for the bibliometric components of the project "Mapping of a Field: A systematic review of reviews of forestry and the forest-based sector in Europe".
