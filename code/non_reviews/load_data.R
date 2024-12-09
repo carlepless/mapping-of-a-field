@@ -47,6 +47,11 @@ nrow(wos_deduplicated) - nrow(biblio)
 
     ## 0
 
+# Number of final documents
+nrow(biblio)
+
+    ## 236,561
+
 # Save to RDS file
 saveRDS(biblio, file = here("data", "wrangled_data", "non_reviews", "biblio.rds"))
 
