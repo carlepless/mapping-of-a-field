@@ -8,6 +8,7 @@ The repository contains the following files and directories:
 
 - `code/`: This directory contains all the scripts used for data processing and analysis.
 - `data/`: This directory contains all the raw and processed data. Please note that this is available upon request and is not included in the repository for other purposes than to provide an overview of the structure.
+- `other/`: This directory contains supplementary materials, such as the references for all the systematic literature reviews in **Dataset 2**.
 - `results/`: This directory contains the final results of the data analysis.
 - `README.md`: This file provides an overview of the project and its structure.
 
